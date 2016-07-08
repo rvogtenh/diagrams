@@ -1,0 +1,23 @@
+/* ---------------------------------------------------------
+   CSS - Template
+
+   Add your prefered Styles here
+   ---------------------------------------------------------*/
+
+
+    /* Optional: Import normalisation:
+    @import 'normalize.css'; */
+    
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Default link styling */
+    a:link { color:#0271fb; }
+    a:visited { color:#bd02fb; }
+    a:hover, a:focus { color:#000; }
+    a:active { color:#fb0e02; }
+    
+    
+    
